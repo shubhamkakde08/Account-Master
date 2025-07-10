@@ -1,6 +1,10 @@
 # Account-Master
 an Oracle SQL view for the Account Master in an ERP system.
 
+ERP-Account-Master/
+├── view_acc_mast.sql              # SQL View for Account Master with schedule and geo details
+└── README.md                      # Documentation file
+
 # ERP Account Master View – Oracle SQL
 
 ## 📘 Overview
